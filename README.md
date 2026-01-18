@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**kevenzheng/kevenzheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name
 
 Here are some ideas to get you started:
 
