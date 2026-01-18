@@ -1,4 +1,4 @@
-# Hi, I'm KevenTay
+# Keven Tay
 
 ## 🎓 Education 
 - Institute of Technical Education
