@@ -10,13 +10,6 @@
 - VMware (VSphere Management, ESXI)
 - Microsoft Office (Word, Powerpoint)
 
-### MongoDB
-- MongoDB and the Document Model
-  https://learn.mongodb.com/c/jYmqOT5iSnK0W1THPLTNvg
-- MongoDB CRUD Operations: Insert and Find Documents
-  https://learn.mongodb.com/c/y7KnJ9h_TWWqGWDghQYIsw
-- 
-
 ## 📫 Contact
 - Email: kkeven022@gmail.com
 - LinkedIn: linkedin.com/in/keven-tay-55792b296/
