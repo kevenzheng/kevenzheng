@@ -14,3 +14,8 @@ Hello I make simple projects when I'm bored
 ## 📫 Contact
 - Email: kkeven022@gmail.com
 - LinkedIn: linkedin.com/in/keven-tay-55792b296/
+
+## Participations
+- Fintech Day 2025
+- Republic Polytechnic Open House 2026
+- Republic Polytechnic Orientation Programmme 2026
