@@ -1,7 +1,8 @@
 # Keven Tay
+Hello I make simple projects when I'm bored
 
 ## 🎓 Education 
-- Institute of Technical Education
+- Institute of Technical Education: IT Systems & Networks (ISN)
 - Republic Polytechnic: Diploma in Financial Technology (DFT)
 
 ## 🔧 Skills
@@ -13,4 +14,3 @@
 ## 📫 Contact
 - Email: kkeven022@gmail.com
 - LinkedIn: linkedin.com/in/keven-tay-55792b296/
-  (certs stored here)
