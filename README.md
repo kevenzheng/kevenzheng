@@ -19,3 +19,4 @@ Hello I make simple projects when I'm bored
 - Fintech Day 2025
 - Republic Polytechnic Open House 2026
 - Republic Polytechnic Orientation Programmme 2026
+- Student Overseas Trip to Guangzhou & ShenZhen
