@@ -7,6 +7,10 @@ Hello I make simple projects when I'm bored
 
 ## 🔧 Skills
 - Python
+- HTML
+- JavaScript
+- NodeJS
+- Ruby???
 - MySQL, MongoDB
 - VMware (VSphere Management, ESXI)
 - Microsoft Office (Word, Powerpoint)
